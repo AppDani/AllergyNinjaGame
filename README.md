@@ -1,6 +1,6 @@
 # Allergy_Ninja
 
-👉 **[PLAY THE GAME DIRECTLY IN YOUR BROWSER HERE](https://your-username.github.io/my-2d-game/)**
+👉 **[PLAY THE GAME DIRECTLY IN YOUR BROWSER HERE](https://appdani.github.io/AllergyNinjaGame/)**
 
 ## About the Project
 A 2D educational game built in Unity 6 featuring fast-paced slicing mechanics. The game is fully optimized with an adaptive UI layout designed to scale seamlessly across desktop browsers, mobile phones, and iPads.
