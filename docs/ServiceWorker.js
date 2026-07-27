@@ -1,4 +1,4 @@
-const cacheName = "DanielaRog-allergyNinja-1.1";
+const cacheName = "DanielaRog-allergyNinja-1.2";
 const contentToCache = [
     "Build/docs.loader.js",
     "Build/docs.framework.js",
